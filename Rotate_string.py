@@ -5,3 +5,4 @@ class Solution:
         if not s and not goal:
             return True
         return goal in s + s
+        
